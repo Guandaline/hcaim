@@ -4,10 +4,10 @@ Supervised discretizer for hierarchical classification problems
 
 ##Parameters
 
--i--in-train-file
--o--out-train-file
--r--in-test-file 
--s--out-test-file
+-i--in_train_file
+-o--out_train_file
+-r--in_test_file 
+-s--out_test_file
 
 ###Exemple
 
