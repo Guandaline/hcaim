@@ -11,4 +11,4 @@ Supervised discretizer for hierarchical classification problems
 
 ###Exemple
 
-java -jar hierarch.jar -i--bases/train.arff -o--bases/result_train.arff -r--bases/test.arff -s--bases/result_test.arff
+java -jar hacim.jar -i--bases/train.arff -o--bases/result_train.arff -r--bases/test.arff -s--bases/result_test.arff
